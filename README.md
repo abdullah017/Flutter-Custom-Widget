@@ -1,6 +1,7 @@
 # create_custom_widget
 
-A new Flutter project.
+[TR]: Flutter ile kendi custom widgetimizi basit bir şekilde oluşturup projemizde kullanıyoruz
+[EN]: With Flutter, we write and use our own custom widget.
 
 ## Getting Started
 
